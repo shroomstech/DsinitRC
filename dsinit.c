@@ -1,3 +1,6 @@
+// Copyright (c) 2026 [Shroomstech]
+// Licensed under CC BY-NC-SA 4.0 (Non-Commercial / No Selling!)
+
 #include <sys/mount.h>
 #include <sys/wait.h>
 #include <unistd.h>
